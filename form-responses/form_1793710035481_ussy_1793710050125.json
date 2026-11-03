@@ -1,0 +1,70 @@
+{
+  "formId": "form_1793710035481_ussy",
+  "patientId": 1790002292561,
+  "patientName": "Iker",
+  "scaleId": "knox-juego-preloaded",
+  "scaleName": "Escala de Juego de Knox (Revisada)",
+  "submittedAt": "2026-11-03T12:47:30.118Z",
+  "answers": [
+    {
+      "itemName": "Motricidad gruesa: Nivel de actividad aumentado, acrobacias, pruebas de fuerza, escala, galopa, atrapa la pelota con codos a los lados.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Intereses: Se enorgullece de su trabajo, ideas complejas, juego brusco.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Manipulación: Control motor fino aumentado, movimientos rápidos, fuerza, tirar.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Construcción: Hace productos con diseños específicos, estructuras complejas, rompecabezas de 10 piezas.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Propósito: El producto es muy importante, lo usa para expresarse, exagera.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Atención: Solo hasta 1 hora, un objeto/tema 10-15 minutos.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Imitación: Arma libretos de adultos (ej: se disfraza), importancia de la realidad.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Dramatización: Usa conocimiento familiar para construir situaciones novedosas, juego de rol, emociones complejas, disfruta disfrazarse.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Tipo: Cooperativo, grupos de 2-3 organizados para alcanzar una meta, juegos en grupo con reglas simples.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Cooperación: Toma turnos, intenta controlar actividades de otros, fuerte sentido de la familia y el hogar.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Humor: Distorsión de lo familiar.",
+      "points": 1,
+      "selectedOption": "(NO) No he podido observarlo"
+    },
+    {
+      "itemName": "Lenguaje: Organiza actividades con lenguaje, se jacta, amenaza, payasea, canta canciones completas, razonamiento verbal.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    }
+  ]
+}
