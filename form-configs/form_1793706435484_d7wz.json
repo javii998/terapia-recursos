@@ -1,0 +1,190 @@
+{
+  "formId": "form_1793706435484_d7wz",
+  "patientId": 1788295690477,
+  "patientName": "Ana María Ibáñez",
+  "scaleId": "barthel-preloaded",
+  "scaleName": "Índice de Barthel",
+  "createdAt": "2026-11-03T11:47:15.484Z",
+  "items": [
+    {
+      "name": "Comer",
+      "description": "Capacidad para alimentarse de forma independiente",
+      "options": [
+        {
+          "text": "Independiente",
+          "points": 10
+        },
+        {
+          "text": "Necesita ayuda",
+          "points": 5
+        },
+        {
+          "text": "Dependiente",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Trasladarse entre la silla y la cama",
+      "description": "Movilidad para pasar de la cama a la silla y viceversa",
+      "options": [
+        {
+          "text": "Independiente",
+          "points": 15
+        },
+        {
+          "text": "Mínima ayuda",
+          "points": 10
+        },
+        {
+          "text": "Gran ayuda",
+          "points": 5
+        },
+        {
+          "text": "Dependiente",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Aseo personal",
+      "description": "Lavarse cara, manos, peinarse, afeitarse, etc.",
+      "options": [
+        {
+          "text": "Independiente",
+          "points": 5
+        },
+        {
+          "text": "Dependiente",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Uso del retrete",
+      "description": "Capacidad para usar el WC",
+      "options": [
+        {
+          "text": "Independiente",
+          "points": 10
+        },
+        {
+          "text": "Necesita ayuda",
+          "points": 5
+        },
+        {
+          "text": "Dependiente",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Bañarse/Ducharse",
+      "description": "Capacidad para bañarse o ducharse",
+      "options": [
+        {
+          "text": "Independiente",
+          "points": 5
+        },
+        {
+          "text": "Dependiente",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Desplazarse",
+      "description": "Caminar en superficies llanas",
+      "options": [
+        {
+          "text": "Independiente (puede usar ayudas)",
+          "points": 15
+        },
+        {
+          "text": "Necesita ayuda",
+          "points": 10
+        },
+        {
+          "text": "Independiente en silla de ruedas",
+          "points": 5
+        },
+        {
+          "text": "Dependiente",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Subir y bajar escaleras",
+      "description": "Capacidad para usar escaleras",
+      "options": [
+        {
+          "text": "Independiente",
+          "points": 10
+        },
+        {
+          "text": "Necesita ayuda",
+          "points": 5
+        },
+        {
+          "text": "Dependiente",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Vestirse y desvestirse",
+      "description": "Incluye ponerse zapatos, abrochar botones, etc.",
+      "options": [
+        {
+          "text": "Independiente",
+          "points": 10
+        },
+        {
+          "text": "Necesita ayuda",
+          "points": 5
+        },
+        {
+          "text": "Dependiente",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Control de heces",
+      "description": "Continencia intestinal",
+      "options": [
+        {
+          "text": "Continente",
+          "points": 10
+        },
+        {
+          "text": "Accidente ocasional",
+          "points": 5
+        },
+        {
+          "text": "Incontinente",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Control de orina",
+      "description": "Continencia urinaria",
+      "options": [
+        {
+          "text": "Continente",
+          "points": 10
+        },
+        {
+          "text": "Accidente ocasional",
+          "points": 5
+        },
+        {
+          "text": "Incontinente",
+          "points": 0
+        }
+      ]
+    }
+  ]
+}
