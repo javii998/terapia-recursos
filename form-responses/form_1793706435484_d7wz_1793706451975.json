@@ -1,0 +1,60 @@
+{
+  "formId": "form_1793706435484_d7wz",
+  "patientId": 1788295690477,
+  "patientName": "Ana María Ibáñez",
+  "scaleId": "barthel-preloaded",
+  "scaleName": "Índice de Barthel",
+  "submittedAt": "2026-11-03T11:47:31.974Z",
+  "answers": [
+    {
+      "itemName": "Comer",
+      "points": 0,
+      "selectedOption": "Dependiente"
+    },
+    {
+      "itemName": "Trasladarse entre la silla y la cama",
+      "points": 10,
+      "selectedOption": "Mínima ayuda"
+    },
+    {
+      "itemName": "Aseo personal",
+      "points": 0,
+      "selectedOption": "Dependiente"
+    },
+    {
+      "itemName": "Uso del retrete",
+      "points": 5,
+      "selectedOption": "Necesita ayuda"
+    },
+    {
+      "itemName": "Bañarse/Ducharse",
+      "points": 5,
+      "selectedOption": "Independiente"
+    },
+    {
+      "itemName": "Desplazarse",
+      "points": 10,
+      "selectedOption": "Necesita ayuda"
+    },
+    {
+      "itemName": "Subir y bajar escaleras",
+      "points": 10,
+      "selectedOption": "Independiente"
+    },
+    {
+      "itemName": "Vestirse y desvestirse",
+      "points": 5,
+      "selectedOption": "Necesita ayuda"
+    },
+    {
+      "itemName": "Control de heces",
+      "points": 10,
+      "selectedOption": "Continente"
+    },
+    {
+      "itemName": "Control de orina",
+      "points": 5,
+      "selectedOption": "Accidente ocasional"
+    }
+  ]
+}
