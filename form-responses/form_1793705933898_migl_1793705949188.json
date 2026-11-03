@@ -1,0 +1,70 @@
+{
+  "formId": "form_1793705933898_migl",
+  "patientId": 1790090710125,
+  "patientName": "Valeria",
+  "scaleId": "knox-juego-preloaded",
+  "scaleName": "Escala de Juego de Knox (Revisada)",
+  "submittedAt": "2026-11-03T11:39:09.187Z",
+  "answers": [
+    {
+      "itemName": "Motricidad gruesa: Golpetea, alcanza, juega con manos y pies, se mueve para continuar sensaciones placenteras.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Intereses: Personas, mira fijamente caras, sigue movimientos, atiende a voces y sonidos, se explora a sí mismo y objetos al alcance.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Manipulación: Manipula, juguetes a la boca, golpea, agita.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Construcción: Junta dos objetos.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Propósito: Sensación: usa materiales para ver, tocar, escuchar, oler, chupar.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Atención: Sigue con los ojos objetos en movimiento, atención de 3 a 5 segundos.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Imitación: Imita expresiones faciales y movimientos físicos (ej: sonrisa, juego de manos), imita vocalización.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Dramatización: No evidente.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Tipo: Solitario, no hay esfuerzo por interactuar con otros niños, disfruta ser tomado en brazos y mecido.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Cooperación: Demanda atención personal, interacción simple de dar y recibir con el cuidador (ej: cosquillas, «¿dónde está?»).",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Humor: Sonríe.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Lenguaje: Atiende a sonidos y voces, balbucea, usa sonidos, juguetea con sonidos.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    }
+  ]
+}
