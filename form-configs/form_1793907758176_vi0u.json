@@ -1,0 +1,226 @@
+{
+  "formId": "form_1793907758176_vi0u",
+  "patientId": 1790090710125,
+  "patientName": "Valeria",
+  "scaleId": "knox-juego-preloaded",
+  "scaleName": "Escala de Juego de Knox (Revisada)",
+  "createdAt": "2026-11-05T19:42:38.176Z",
+  "items": [
+    {
+      "name": "Motricidad gruesa: Golpetea, alcanza, juega con manos y pies, se mueve para continuar sensaciones placenteras.",
+      "description": "Manejo del espacio",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Intereses: Personas, mira fijamente caras, sigue movimientos, atiende a voces y sonidos, se explora a sí mismo y objetos al alcance.",
+      "description": "Manejo del espacio",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Manipulación: Manipula, juguetes a la boca, golpea, agita.",
+      "description": "Manejo del material",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Construcción: Junta dos objetos.",
+      "description": "Manejo del material",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Propósito: Sensación: usa materiales para ver, tocar, escuchar, oler, chupar.",
+      "description": "Manejo del material",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Atención: Sigue con los ojos objetos en movimiento, atención de 3 a 5 segundos.",
+      "description": "Manejo del material",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Imitación: Imita expresiones faciales y movimientos físicos (ej: sonrisa, juego de manos), imita vocalización.",
+      "description": "Simbolismo pretendido",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Dramatización: No evidente.",
+      "description": "Simbolismo pretendido",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Tipo: Solitario, no hay esfuerzo por interactuar con otros niños, disfruta ser tomado en brazos y mecido.",
+      "description": "Participación",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Cooperación: Demanda atención personal, interacción simple de dar y recibir con el cuidador (ej: cosquillas, «¿dónde está?»).",
+      "description": "Participación",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Humor: Sonríe.",
+      "description": "Participación",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Lenguaje: Atiende a sonidos y voces, balbucea, usa sonidos, juguetea con sonidos.",
+      "description": "Participación",
+      "options": [
+        {
+          "text": "(+) Sí, observo esta conducta",
+          "points": 2
+        },
+        {
+          "text": "(−) No observo esta conducta aún",
+          "points": 0
+        },
+        {
+          "text": "(NO) No he podido observarlo",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}
