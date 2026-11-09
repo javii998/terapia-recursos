@@ -1,0 +1,550 @@
+{
+  "formId": "form_1794221584877_i7r0",
+  "patientId": 1794220380604,
+  "patientName": "Ayon Mendo Stumbo",
+  "scaleId": "battelle-screening-preloaded",
+  "scaleName": "Battelle Screening (Inventario de Desarrollo)",
+  "createdAt": "2026-11-09T10:53:04.877Z",
+  "items": [
+    {
+      "name": "Participa en juegos competitivos.",
+      "description": "Personal/Social (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Distingue las conductas aceptables de las no aceptables.",
+      "description": "Personal/Social (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Actúa como líder en las relaciones con los compañeros.",
+      "description": "Personal/Social (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Pide ayuda al adulto cuando lo necesita.",
+      "description": "Personal/Social (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Utiliza al adulto para defenderse.",
+      "description": "Personal/Social (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Reconoce la responsabilidad de sus errores.",
+      "description": "Personal/Social (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Va al colegio solo.",
+      "description": "Adaptativa (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Contesta preguntas del tipo ¿Qué harías si…?",
+      "description": "Adaptativa (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Conoce su dirección.",
+      "description": "Adaptativa (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Utiliza el teléfono.",
+      "description": "Adaptativa (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Maneja pequeñas cantidades de dinero.",
+      "description": "Adaptativa (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Realiza tareas domésticas.",
+      "description": "Adaptativa (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Se mantiene en un solo pie alternativamente, con los ojos cerrados.",
+      "description": "Motora Gruesa (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Copia los números del 1 al 5.",
+      "description": "Motora Fina (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Anda por una línea «punta - talón» (como equilibrista).",
+      "description": "Motora Gruesa (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Copia palabras con letras mayúsculas y minúsculas.",
+      "description": "Motora Fina (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Salta a la cuerda.",
+      "description": "Motora Gruesa (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Copia un triángulo inscrito en otro triángulo.",
+      "description": "Motora Fina (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Comprende el futuro de los verbos ser y estar.",
+      "description": "Comunicación Receptiva (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Utiliza el comparativo.",
+      "description": "Comunicación Expresiva (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Reconoce palabras que no pertenecen a una categoría.",
+      "description": "Comunicación Receptiva (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Habla sobre cosas que pueden suceder.",
+      "description": "Comunicación Expresiva (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Comprende los conceptos: dulce, duro y brillante.",
+      "description": "Comunicación Receptiva (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Define palabras.",
+      "description": "Comunicación Expresiva (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Identifica colores.",
+      "description": "Cognitiva (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Identifica los objetos primero y último de una fila.",
+      "description": "Cognitiva (edad esperada: 60-71 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Recuerda hechos de una historia contada.",
+      "description": "Cognitiva (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Resuelve sumas y restas sencillas (números del 0 al 5).",
+      "description": "Cognitiva (edad esperada: 72-83 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Resuelve problemas sencillos, presentados oralmente, que incluyen la sustracción.",
+      "description": "Cognitiva (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Resuelve multiplicaciones sencillas.",
+      "description": "Cognitiva (edad esperada: 84-95 meses)",
+      "options": [
+        {
+          "text": "2 — Sí, siempre (conducta establecida)",
+          "points": 2
+        },
+        {
+          "text": "1 — A veces (conducta emergente)",
+          "points": 1
+        },
+        {
+          "text": "0 — No, todavía no lo hace",
+          "points": 0
+        }
+      ]
+    }
+  ]
+}
