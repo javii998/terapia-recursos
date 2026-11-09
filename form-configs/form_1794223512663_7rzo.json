@@ -1,0 +1,62 @@
+{
+  "formId": "form_1794223512663_7rzo",
+  "patientId": 1794220380604,
+  "patientName": "Ayon Mendo Stumbo",
+  "scaleId": "gmfcs-preloaded",
+  "scaleName": "GMFCS-ER (Clasificación Función Motora Gruesa)",
+  "createdAt": "2026-11-09T11:25:12.664Z",
+  "items": [
+    {
+      "name": "Grupo de edad del niño/joven",
+      "description": "Seleccione el grupo de edad correspondiente",
+      "options": [
+        {
+          "text": "Antes de los 2 años",
+          "points": 0
+        },
+        {
+          "text": "Entre 2 y 4 años",
+          "points": 0
+        },
+        {
+          "text": "Entre 4 y 6 años",
+          "points": 0
+        },
+        {
+          "text": "Entre 6 y 12 años",
+          "points": 0
+        },
+        {
+          "text": "Entre 12 y 18 años",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "Nivel de Función Motora Gruesa",
+      "description": "Nivel GMFCS según características observadas",
+      "options": [
+        {
+          "text": "Nivel I - Camina sin restricciones",
+          "points": 5
+        },
+        {
+          "text": "Nivel II - Camina con limitaciones",
+          "points": 4
+        },
+        {
+          "text": "Nivel III - Camina con dispositivo auxiliar",
+          "points": 3
+        },
+        {
+          "text": "Nivel IV - Auto-movilidad limitada, posible movilidad motorizada",
+          "points": 2
+        },
+        {
+          "text": "Nivel V - Transportado en silla de ruedas",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}
