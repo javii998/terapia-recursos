@@ -1,0 +1,40 @@
+{
+  "formId": "form_1794306838763_5sm1",
+  "patientId": 1773307190812,
+  "patientName": "Defne Botana",
+  "scaleId": "fachs-preloaded",
+  "scaleName": "FACHS - Clasificación Funcional Manipulación Sagunto",
+  "createdAt": "2026-11-10T10:33:58.763Z",
+  "items": [
+    {
+      "name": "Nivel funcional de manipulación",
+      "description": "Evaluación del nivel funcional de la mano",
+      "options": [
+        {
+          "text": "Nivel 5 - Manipulación Normal (fuerza, destreza y finura, estética normal)",
+          "points": 5
+        },
+        {
+          "text": "Nivel 4 - Prensión fina fuerte (pinza con fuerza sin fatiga)",
+          "points": 4
+        },
+        {
+          "text": "Nivel 3 - Prensión fina (pinza índice-pulgar con objetos pequeños)",
+          "points": 3
+        },
+        {
+          "text": "Nivel 2 - Prensión global (presa con todos dedos/palma)",
+          "points": 2
+        },
+        {
+          "text": "Nivel 1 - Manipulación no funcional (contacto, empuje, ayuda bimanual)",
+          "points": 1
+        },
+        {
+          "text": "Nivel 0 - Nula manipulación (sin uso funcional)",
+          "points": 0
+        }
+      ]
+    }
+  ]
+}
