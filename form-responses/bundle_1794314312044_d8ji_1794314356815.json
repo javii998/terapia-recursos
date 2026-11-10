@@ -1,0 +1,118 @@
+{
+  "formId": "bundle_1794314312044_d8ji",
+  "patientId": 1794225066323,
+  "patientName": "Yasser zernouni",
+  "submittedAt": "2026-11-10T12:39:16.808Z",
+  "type": "bundle",
+  "scales": [
+    {
+      "scaleId": "frenchay-preloaded",
+      "scaleName": "Frenchay Arm Test (FAT)",
+      "answers": [
+        {
+          "itemName": "1. Estabilizar regla",
+          "points": 1,
+          "selectedOption": "Realiza la tarea"
+        },
+        {
+          "itemName": "2. Coger cilindro",
+          "points": 1,
+          "selectedOption": "Realiza la tarea"
+        },
+        {
+          "itemName": "3. Coger vaso y beber",
+          "points": 0,
+          "selectedOption": "No realiza la tarea"
+        },
+        {
+          "itemName": "4. Pinza de la ropa",
+          "points": 1,
+          "selectedOption": "Realiza la tarea"
+        },
+        {
+          "itemName": "5. Peinarse",
+          "points": 0,
+          "selectedOption": "No realiza la tarea"
+        }
+      ]
+    },
+    {
+      "scaleId": "peabody-preloaded",
+      "scaleName": "Peabody (PDMS-2)",
+      "answers": [
+        {
+          "itemName": "Prensión - Agarre de objetos pequeños",
+          "points": 2,
+          "selectedOption": "Realizado correctamente"
+        },
+        {
+          "itemName": "Integración visomotora - Copiar formas",
+          "points": 1,
+          "selectedOption": "Copia con errores"
+        },
+        {
+          "itemName": "Coordinación bilateral - Usar tijeras",
+          "points": 1,
+          "selectedOption": "Usa tijeras con dificultad"
+        },
+        {
+          "itemName": "Locomoción - Caminar en línea recta",
+          "points": 2,
+          "selectedOption": "Camina con buen equilibrio"
+        },
+        {
+          "itemName": "Control de objetos - Lanzar pelota",
+          "points": 1,
+          "selectedOption": "Lanza sin precisión"
+        }
+      ]
+    },
+    {
+      "scaleId": "pedi-preloaded",
+      "scaleName": "PEDI - Evaluación Pediátrica de Discapacidad",
+      "answers": [
+        {
+          "itemName": "Autocuidado - Alimentación",
+          "points": 1,
+          "selectedOption": "Capaz (1)"
+        },
+        {
+          "itemName": "Autocuidado - Higiene",
+          "points": 0,
+          "selectedOption": "Incapaz (0)"
+        },
+        {
+          "itemName": "Autocuidado - Vestido",
+          "points": 0,
+          "selectedOption": "Incapaz (0)"
+        },
+        {
+          "itemName": "Movilidad - Transferencias",
+          "points": 1,
+          "selectedOption": "Capaz (1)"
+        },
+        {
+          "itemName": "Movilidad - Locomoción interior",
+          "points": 0,
+          "selectedOption": "Incapaz (0)"
+        },
+        {
+          "itemName": "Función social - Comprensión",
+          "points": 1,
+          "selectedOption": "Capaz (1)"
+        }
+      ]
+    },
+    {
+      "scaleId": "ashworth-preloaded",
+      "scaleName": "Escala de Ashworth Modificada",
+      "answers": [
+        {
+          "itemName": "Evaluación de espasticidad en la articulación (especificar cuál)",
+          "points": 2,
+          "selectedOption": "2 - Notable incremento en la resistencia del músculo durante la mayor parte del arco de movimiento articular, pero la articulación se mueve fácilmente"
+        }
+      ]
+    }
+  ]
+}
