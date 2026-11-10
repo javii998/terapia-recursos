@@ -1,0 +1,306 @@
+{
+  "formId": "bundle_1794314312044_d8ji",
+  "type": "bundle",
+  "patientId": 1794225066323,
+  "patientName": "Yasser zernouni",
+  "createdAt": "2026-11-10T12:38:32.044Z",
+  "scales": [
+    {
+      "scaleId": "frenchay-preloaded",
+      "scaleName": "Frenchay Arm Test (FAT)",
+      "items": [
+        {
+          "name": "1. Estabilizar regla",
+          "description": "Sujetar regla firmemente con mano parética mientras dibuja línea con mano sana",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "2. Coger cilindro",
+          "description": "Coger cilindro (12mm×5cm) a 15cm del borde, levantarlo 30cm y dejarlo sin que caiga",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "3. Coger vaso y beber",
+          "description": "Coger vaso semilleno (15-30cm del borde), beber agua y colocarlo sin derramar",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "4. Pinza de la ropa",
+          "description": "Quitar y poner pinza en varilla (10mm×15cm en base 10cm, a 15-30cm). No dejar caer",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "5. Peinarse",
+          "description": "Coger peine y peinarse parte superior cabeza (detrás y a cada lado)",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scaleId": "peabody-preloaded",
+      "scaleName": "Peabody (PDMS-2)",
+      "items": [
+        {
+          "name": "Prensión - Agarre de objetos pequeños",
+          "description": "Capacidad para tomar objetos pequeños con precisión",
+          "options": [
+            {
+              "text": "Realizado correctamente",
+              "points": 2
+            },
+            {
+              "text": "Realizado con dificultad",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Integración visomotora - Copiar formas",
+          "description": "Habilidad para copiar formas simples",
+          "options": [
+            {
+              "text": "Copia con precisión",
+              "points": 2
+            },
+            {
+              "text": "Copia con errores",
+              "points": 1
+            },
+            {
+              "text": "No puede copiar",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Coordinación bilateral - Usar tijeras",
+          "description": "Capacidad de usar tijeras con coordinación",
+          "options": [
+            {
+              "text": "Usa tijeras correctamente",
+              "points": 2
+            },
+            {
+              "text": "Usa tijeras con dificultad",
+              "points": 1
+            },
+            {
+              "text": "No puede usar tijeras",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Locomoción - Caminar en línea recta",
+          "description": "Control del equilibrio al caminar",
+          "options": [
+            {
+              "text": "Camina con buen equilibrio",
+              "points": 2
+            },
+            {
+              "text": "Camina con equilibrio inestable",
+              "points": 1
+            },
+            {
+              "text": "No puede caminar en línea",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Control de objetos - Lanzar pelota",
+          "description": "Coordinación para lanzar objetos",
+          "options": [
+            {
+              "text": "Lanza con precisión",
+              "points": 2
+            },
+            {
+              "text": "Lanza sin precisión",
+              "points": 1
+            },
+            {
+              "text": "No puede lanzar",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scaleId": "pedi-preloaded",
+      "scaleName": "PEDI - Evaluación Pediátrica de Discapacidad",
+      "items": [
+        {
+          "name": "Autocuidado - Alimentación",
+          "description": "Habilidades de alimentación independiente",
+          "options": [
+            {
+              "text": "Capaz (1)",
+              "points": 1
+            },
+            {
+              "text": "Incapaz (0)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Autocuidado - Higiene",
+          "description": "Habilidades de higiene personal",
+          "options": [
+            {
+              "text": "Capaz (1)",
+              "points": 1
+            },
+            {
+              "text": "Incapaz (0)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Autocuidado - Vestido",
+          "description": "Capacidad para vestirse",
+          "options": [
+            {
+              "text": "Capaz (1)",
+              "points": 1
+            },
+            {
+              "text": "Incapaz (0)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Movilidad - Transferencias",
+          "description": "Capacidad de moverse entre posiciones",
+          "options": [
+            {
+              "text": "Capaz (1)",
+              "points": 1
+            },
+            {
+              "text": "Incapaz (0)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Movilidad - Locomoción interior",
+          "description": "Desplazamiento dentro de espacios cerrados",
+          "options": [
+            {
+              "text": "Capaz (1)",
+              "points": 1
+            },
+            {
+              "text": "Incapaz (0)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Función social - Comprensión",
+          "description": "Capacidad de comprensión en situaciones sociales",
+          "options": [
+            {
+              "text": "Capaz (1)",
+              "points": 1
+            },
+            {
+              "text": "Incapaz (0)",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scaleId": "ashworth-preloaded",
+      "scaleName": "Escala de Ashworth Modificada",
+      "items": [
+        {
+          "name": "Evaluación de espasticidad en la articulación (especificar cuál)",
+          "options": [
+            {
+              "text": "0 - No hay cambios en la respuesta del músculo en los movimientos de flexión o extensión",
+              "points": 0
+            },
+            {
+              "text": "1 - Ligero aumento en la respuesta del músculo al movimiento (flexión o extensión) visible con la palpación o relajación, o solo mínima resistencia al final del arco del movimiento",
+              "points": 1
+            },
+            {
+              "text": "1+ - Ligero aumento en la resistencia del músculo al movimiento en flexión o extensión seguido de una mínima resistencia en todo el resto del arco de movimiento (menos de la mitad)",
+              "points": 1.5
+            },
+            {
+              "text": "2 - Notable incremento en la resistencia del músculo durante la mayor parte del arco de movimiento articular, pero la articulación se mueve fácilmente",
+              "points": 2
+            },
+            {
+              "text": "3 - Marcado incremento en la resistencia del músculo; el movimiento pasivo es difícil en la flexión o extensión",
+              "points": 3
+            },
+            {
+              "text": "4 - Las partes afectadas están rígidas en flexión o extensión cuando se mueven pasivamente",
+              "points": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
