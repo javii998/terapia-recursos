@@ -1,0 +1,1623 @@
+{
+  "formId": "bundle_1794314248382_ozro",
+  "type": "bundle",
+  "patientId": 1794225066323,
+  "patientName": "Yasser zernouni",
+  "createdAt": "2026-11-10T12:37:28.382Z",
+  "scales": [
+    {
+      "scaleId": "fuglmeyer-preloaded",
+      "scaleName": "FMA-ES - Fugl-Meyer Extremidad Superior",
+      "items": [
+        {
+          "name": "I.1 Reflejo flexor (Bíceps/flexores dedos)",
+          "description": "Actividad refleja - Flexores",
+          "options": [
+            {
+              "text": "Puede ser provocado",
+              "points": 2
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "I.2 Reflejo extensor (Tríceps)",
+          "description": "Actividad refleja - Extensores",
+          "options": [
+            {
+              "text": "Puede ser provocado",
+              "points": 2
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "II.1 Hombro - Retracción",
+          "description": "Sinergia flexora: mano desde rodilla contralateral hasta oído ipsilateral",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "II.2 Hombro - Elevación",
+          "description": "Sinergia flexora",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "II.3 Hombro - Abducción (90°)",
+          "description": "Sinergia flexora",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "II.4 Hombro - Rotación externa",
+          "description": "Sinergia flexora",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "II.5 Codo - Flexión",
+          "description": "Sinergia flexora",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "II.6 Antebrazo - Supinación",
+          "description": "Sinergia flexora",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "II.7 Hombro - Aducción/rotación interna",
+          "description": "Sinergia extensora: mano desde oído ipsilateral hasta rodilla contralateral",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "II.8 Codo - Extensión",
+          "description": "Sinergia extensora",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "II.9 Antebrazo - Pronación",
+          "description": "Sinergia extensora",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "III.1 Mano hasta columna lumbar",
+          "description": "Mano sobre regazo, sin compensación",
+          "options": [
+            {
+              "text": "Mano hasta columna lumbar (sin compensación)",
+              "points": 2
+            },
+            {
+              "text": "Mano detrás de espina iliaca anterosuperior (sin compensación)",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar, mano en frente de espina iliaca anterosuperior",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "III.2 Flexión hombro 0°-90°",
+          "description": "Codo a 0°, pronación-supinación 0°",
+          "options": [
+            {
+              "text": "90° flexión, no abducción hombro ni flexión codo",
+              "points": 2
+            },
+            {
+              "text": "Abducción o flexión codo durante movimiento",
+              "points": 1
+            },
+            {
+              "text": "Abducción inmediata o flexión de codo",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "III.3 Pronación-supinación",
+          "description": "Codo 90°, hombro 0°",
+          "options": [
+            {
+              "text": "Pronación/supinación completa, mantiene posición inicio",
+              "points": 2
+            },
+            {
+              "text": "Pronación/supinación limitada, mantiene posición inicio",
+              "points": 1
+            },
+            {
+              "text": "No pronación/supinación, imposible posición inicio",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "IV.1 Abducción hombro 0°-90°",
+          "description": "Codo a 0°, antebrazo pronado",
+          "options": [
+            {
+              "text": "90° abducción, mantiene extensión y pronación",
+              "points": 2
+            },
+            {
+              "text": "Supinación o flexión codo durante movimiento",
+              "points": 1
+            },
+            {
+              "text": "Supinación inmediata o flexión de codo",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "IV.2 Flexión hombro 90°-180°",
+          "description": "Codo a 0°, pronación-supinación 0°",
+          "options": [
+            {
+              "text": "Flexión 180°, no abducción hombro o flexión codo",
+              "points": 2
+            },
+            {
+              "text": "Abducción o flexión codo durante movimiento",
+              "points": 1
+            },
+            {
+              "text": "Abducción inmediata o flexión de codo",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "IV.3 Pronación/supinación",
+          "description": "Codo a 0°, hombro flexión 30°-90°",
+          "options": [
+            {
+              "text": "Pronación/supinación completa, mantiene posición inicio",
+              "points": 2
+            },
+            {
+              "text": "Pronación/supinación limitada, mantiene posición inicio",
+              "points": 1
+            },
+            {
+              "text": "No pronación/supinación, imposible posición inicio",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "V.1 Reflejos normales",
+          "description": "Bíceps, tríceps, flexores dedos (evaluar solo si puntaje 6 en parte IV)",
+          "options": [
+            {
+              "text": "Máximo 1 reflejo enérgico, ninguno hiperactivo",
+              "points": 2
+            },
+            {
+              "text": "1 reflejo marcadamente hiperactivo o ≥2 reflejos enérgicos",
+              "points": 1
+            },
+            {
+              "text": "0 puntos en parte IV o 2 de 3 reflejos marcadamente hiperactivos",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "B.1 Estabilidad flexión dorsal 15° (codo 90°)",
+          "description": "Codo 90°, antebrazo pronado, hombro 0°",
+          "options": [
+            {
+              "text": "Mantiene flexión dorsal contra resistencia",
+              "points": 2
+            },
+            {
+              "text": "15° flexión dorsal, no tolera resistencia",
+              "points": 1
+            },
+            {
+              "text": "Flexión dorsal activa menor de 15°",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "B.2 Flexión dorsal/volar repetida (codo 90°)",
+          "description": "Codo 90°, antebrazo pronado, hombro 0°",
+          "options": [
+            {
+              "text": "Rango movimiento activo completo, fluido",
+              "points": 2
+            },
+            {
+              "text": "Rango movimiento activo limitado",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar voluntariamente",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "B.3 Estabilidad flexión dorsal 15° (codo 0°)",
+          "description": "Codo 0°, antebrazo pronado, leve flexión/abducción hombro",
+          "options": [
+            {
+              "text": "Mantiene posición contra resistencia",
+              "points": 2
+            },
+            {
+              "text": "15° flexión dorsal, sin resistencia",
+              "points": 1
+            },
+            {
+              "text": "Flexión dorsal activa menor de 15°",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "B.4 Flexión dorsal/volar repetida (codo 0°)",
+          "description": "Codo 0°, antebrazo pronado, leve flexión/abducción hombro",
+          "options": [
+            {
+              "text": "Rango movimiento activo completo, fluido",
+              "points": 2
+            },
+            {
+              "text": "Rango movimiento activo limitado",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar voluntariamente",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "B.5 Circunducción",
+          "description": "Codo 90°, antebrazo pronado, hombro 0°",
+          "options": [
+            {
+              "text": "Circunducción completa y suave",
+              "points": 2
+            },
+            {
+              "text": "Movimiento brusco o incompleto",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar voluntariamente",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "C.1 Flexión en masa",
+          "description": "Desde extensión total activa o pasiva",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "C.2 Extensión en masa",
+          "description": "Desde flexión total activa o pasiva",
+          "options": [
+            {
+              "text": "Total",
+              "points": 2
+            },
+            {
+              "text": "Parcial",
+              "points": 1
+            },
+            {
+              "text": "Ninguno",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "C.3 Agarre de gancho",
+          "description": "Flexión IFP/IFD (dedos II-V), extensión MCF II-V",
+          "options": [
+            {
+              "text": "Mantiene posición contra resistencia",
+              "points": 2
+            },
+            {
+              "text": "Puede mantener posición pero débil",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "C.4 Aducción de pulgar",
+          "description": "1er CMC, MCF, IFP a 0°, papel entre pulgar y 2da MCF",
+          "options": [
+            {
+              "text": "Puede sostener papel contra tirón",
+              "points": 2
+            },
+            {
+              "text": "Puede sostener papel pero no contra tirón",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "C.5 Agarre tipo pinza (oposición)",
+          "description": "Pulpejo pulgar contra pulpejo 2do dedo, lápiz",
+          "options": [
+            {
+              "text": "Puede sostener lápiz contra tirón",
+              "points": 2
+            },
+            {
+              "text": "Puede sostener lápiz pero no contra tirón",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "C.6 Agarre cilíndrico",
+          "description": "Objeto cilíndrico (lata pequeña), oposición dedos I y II",
+          "options": [
+            {
+              "text": "Puede sostener cilindro contra tirón",
+              "points": 2
+            },
+            {
+              "text": "Puede sostener cilindro pero no contra tirón",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "C.7 Agarre esférico",
+          "description": "Dedos en abducción/flexión, pulgar opuesto, bola de tenis",
+          "options": [
+            {
+              "text": "Puede sostener bola contra tirón",
+              "points": 2
+            },
+            {
+              "text": "Puede sostener bola pero no contra tirón",
+              "points": 1
+            },
+            {
+              "text": "No puede realizar",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "D.1 Temblor",
+          "description": "Dedo índice desde rodilla hasta nariz, 5 veces, ojos vendados",
+          "options": [
+            {
+              "text": "Ninguno",
+              "points": 2
+            },
+            {
+              "text": "Leve",
+              "points": 1
+            },
+            {
+              "text": "Marcado (al menos 1 movimiento completo)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "D.2 Dismetría",
+          "description": "Dedo índice desde rodilla hasta nariz, 5 veces",
+          "options": [
+            {
+              "text": "No dismetría",
+              "points": 2
+            },
+            {
+              "text": "Leve y sistemática",
+              "points": 1
+            },
+            {
+              "text": "Pronunciada o asistemática",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "D.3 Tiempo",
+          "description": "Inicio y final con mano sobre rodilla, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Menos de 2 segundos de diferencia",
+              "points": 2
+            },
+            {
+              "text": "2-5 seg. más lento que lado no afectado",
+              "points": 1
+            },
+            {
+              "text": "Al menos 6 seg. más lento que lado no afectado",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "H.1 Tacto suave - Brazo/antebrazo",
+          "description": "Paciente con OJOS VENDADOS. Aplica un toque suave con algodón o dedo sobre brazo y antebrazo del lado afectado. Compara respuesta con el lado sano. 2=Sensación normal (igual que lado sano). 1=Hipoestesia (reducida) o disestesia (alterada/distorsionada). 0=Anestesia (no siente nada).",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Hipoestesia / disestesia",
+              "points": 1
+            },
+            {
+              "text": "Anestesia",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "H.2 Tacto suave - Superficie palmar de la mano",
+          "description": "Paciente con OJOS VENDADOS. Aplica un toque suave en la palma de la mano afectada. Compara con el lado sano. 2=Sensación normal. 1=Hipoestesia o disestesia. 0=Anestesia.",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Hipoestesia / disestesia",
+              "points": 1
+            },
+            {
+              "text": "Anestesia",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "H.3 Posición - Hombro",
+          "description": "Paciente con OJOS VENDADOS. Mueve pasivamente el hombro afectado a una posición y pide al paciente que replique el movimiento con el brazo sano, o que diga la dirección. Realiza 4 intentos con pequeñas variaciones. 2=3 o más correctos (≥¾), poca diferencia con lado sano. 1=Menos de 3 correctos, diferencia considerable. 0=Sin percepción de posición.",
+          "options": [
+            {
+              "text": "Correcto ¾ o más, poca o ninguna diferencia",
+              "points": 2
+            },
+            {
+              "text": "Menos de ¾ correcto, diferencia considerable",
+              "points": 1
+            },
+            {
+              "text": "Ausencia (sin sensación de posición)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "H.4 Posición - Codo",
+          "description": "Paciente con OJOS VENDADOS. Mueve pasivamente el codo afectado y pide que replique o verbalice la posición. 4 intentos. 2=3 o más correctos, poca diferencia. 1=Menos de 3 correctos. 0=Sin percepción.",
+          "options": [
+            {
+              "text": "Correcto ¾ o más, poca o ninguna diferencia",
+              "points": 2
+            },
+            {
+              "text": "Menos de ¾ correcto, diferencia considerable",
+              "points": 1
+            },
+            {
+              "text": "Ausencia (sin sensación de posición)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "H.5 Posición - Muñeca",
+          "description": "Paciente con OJOS VENDADOS. Mueve pasivamente la muñeca afectada (flexión/extensión) y pide que replique o verbalice. 4 intentos. 2=3 o más correctos. 1=Menos de 3 correctos. 0=Sin percepción.",
+          "options": [
+            {
+              "text": "Correcto ¾ o más, poca o ninguna diferencia",
+              "points": 2
+            },
+            {
+              "text": "Menos de ¾ correcto, diferencia considerable",
+              "points": 1
+            },
+            {
+              "text": "Ausencia (sin sensación de posición)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "H.6 Posición - Pulgar (articulación IF)",
+          "description": "Paciente con OJOS VENDADOS. Mueve pasivamente la articulación IF del pulgar afectado y pide que replique o verbalice. 4 intentos. 2=3 o más correctos. 1=Menos de 3 correctos. 0=Sin percepción.",
+          "options": [
+            {
+              "text": "Correcto ¾ o más, poca o ninguna diferencia",
+              "points": 2
+            },
+            {
+              "text": "Menos de ¾ correcto, diferencia considerable",
+              "points": 1
+            },
+            {
+              "text": "Ausencia (sin sensación de posición)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.1 Hombro - Flexión (0°-180°)",
+          "description": "Movimiento articular pasivo, posición sedente, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados (menos de 10° en hombro)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.2 Hombro - Abducción (0°-90°)",
+          "description": "Movimiento articular pasivo, posición sedente, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados (menos de 10° en hombro)",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.3 Hombro - Rotación externa",
+          "description": "Movimiento articular pasivo, posición sedente, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.4 Hombro - Rotación interna",
+          "description": "Movimiento articular pasivo, posición sedente, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.5 Codo - Flexión",
+          "description": "Movimiento articular pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.6 Codo - Extensión",
+          "description": "Movimiento articular pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.7 Antebrazo - Pronación",
+          "description": "Movimiento articular pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.8 Antebrazo - Supinación",
+          "description": "Movimiento articular pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.9 Muñeca - Flexión",
+          "description": "Movimiento articular pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.10 Muñeca - Extensión",
+          "description": "Movimiento articular pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.11 Dedos - Flexión",
+          "description": "Movimiento articular pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "MAP.12 Dedos - Extensión",
+          "description": "Movimiento articular pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "Normal",
+              "points": 2
+            },
+            {
+              "text": "Disminuido",
+              "points": 1
+            },
+            {
+              "text": "Solo unos pocos grados",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.1 Hombro - Flexión (0°-180°)",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.2 Hombro - Abducción (0°-90°)",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.3 Hombro - Rotación externa",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.4 Hombro - Rotación interna",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.5 Codo - Flexión",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.6 Codo - Extensión",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.7 Antebrazo - Pronación",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.8 Antebrazo - Supinación",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.9 Muñeca - Flexión",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.10 Muñeca - Extensión",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.11 Dedos - Flexión",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "J.12 Dedos - Extensión",
+          "description": "Dolor articular durante movimiento pasivo, comparar con lado no afectado",
+          "options": [
+            {
+              "text": "No dolor",
+              "points": 2
+            },
+            {
+              "text": "Algún dolor",
+              "points": 1
+            },
+            {
+              "text": "Dolor marcado durante o al final del movimiento",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scaleId": "rankin-preloaded",
+      "scaleName": "Escala de Rankin Modificada (ERM)",
+      "items": [
+        {
+          "name": "Grado de discapacidad",
+          "description": "Evaluación del grado de discapacidad funcional post-ictus",
+          "options": [
+            {
+              "text": "0 - Sin síntomas ni limitaciones",
+              "points": 0
+            },
+            {
+              "text": "1 - Sin discapacidad significativa (algunos síntomas pero sin limitaciones)",
+              "points": 1
+            },
+            {
+              "text": "2 - Discapacidad leve (limitaciones en actividades habituales pero independiente en ABVD)",
+              "points": 2
+            },
+            {
+              "text": "3 - Discapacidad moderada (necesita asistencia para AIVD pero no para ABVD)",
+              "points": 3
+            },
+            {
+              "text": "4 - Discapacidad moderada-severa (necesita asistencia para ABVD, no cuidados continuos)",
+              "points": 4
+            },
+            {
+              "text": "5 - Discapacidad severa (necesita cuidados constantes durante todo el día)",
+              "points": 5
+            },
+            {
+              "text": "6 - Muerte",
+              "points": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scaleId": "frenchay-preloaded",
+      "scaleName": "Frenchay Arm Test (FAT)",
+      "items": [
+        {
+          "name": "1. Estabilizar regla",
+          "description": "Sujetar regla firmemente con mano parética mientras dibuja línea con mano sana",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "2. Coger cilindro",
+          "description": "Coger cilindro (12mm×5cm) a 15cm del borde, levantarlo 30cm y dejarlo sin que caiga",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "3. Coger vaso y beber",
+          "description": "Coger vaso semilleno (15-30cm del borde), beber agua y colocarlo sin derramar",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "4. Pinza de la ropa",
+          "description": "Quitar y poner pinza en varilla (10mm×15cm en base 10cm, a 15-30cm). No dejar caer",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "5. Peinarse",
+          "description": "Coger peine y peinarse parte superior cabeza (detrás y a cada lado)",
+          "options": [
+            {
+              "text": "Realiza la tarea",
+              "points": 1
+            },
+            {
+              "text": "No realiza la tarea",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scaleId": "praxias-barcelona-preloaded",
+      "scaleName": "Praxias Barcelona",
+      "items": [
+        {
+          "name": "Postura 1D: Puño-mentón",
+          "description": "Mano derecha - Puño cerrado debajo de barbilla (dorso enfrenta al paciente)",
+          "options": [
+            {
+              "text": "Perfecto (rápido, sin correcciones)",
+              "points": 2
+            },
+            {
+              "text": "Regular (pequeñas imperfecciones)",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Postura 2D: Mano vertical sagital",
+          "description": "Mano derecha - Posición extendida sagital, dedos hacia mentón",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Postura 3D: Mano en cabeza",
+          "description": "Mano derecha - Horizontal en cabeza, metacarpofalángica toca vértex",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Postura 4D: Anillo pulgar-índice",
+          "description": "Mano derecha - Anillo índice-pulgar, otros dedos en extensión",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Postura 5D: Victoria invertida",
+          "description": "Mano derecha - \"Uve\" con índice y medio, invertir mano",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Postura 1I: Puño-mentón",
+          "description": "Mano izquierda - Puño cerrado debajo de barbilla",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Postura 2I: Mano vertical sagital",
+          "description": "Mano izquierda - Posición extendida sagital",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Postura 3I: Mano en cabeza",
+          "description": "Mano izquierda - Horizontal en cabeza",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Postura 4I: Anillo pulgar-índice",
+          "description": "Mano izquierda - Anillo índice-pulgar",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Postura 5I: Victoria invertida",
+          "description": "Mano izquierda - \"Uve\" invertida",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Bilateral 1: Mano horizontal",
+          "description": "Derecha horizontal palma abajo, izquierda vertical",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Bilateral 2: Oposición índice-pulgar",
+          "description": "Índices con pulgares opuestos en flexión vertical",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Bilateral 3: Doble anillo",
+          "description": "Anillos entrelazados con contacto interior",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Bilateral 4: Mariposa",
+          "description": "Pulgares entrelazados, palmas al examinador",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Incorrecto",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Secuencia 1: Puño-palma-lado",
+          "description": "Alternancia: puño, palma, borde cubital",
+          "options": [
+            {
+              "text": "Correcto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Mal realizado",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Secuencia 2: Tapping",
+          "description": "1 golpe fuerte, 2 suaves",
+          "options": [
+            {
+              "text": "Correcto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Mal realizado",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Secuencia 3: Alternancia gráfica",
+          "description": "Línea quebrada alternando picos y mesetas",
+          "options": [
+            {
+              "text": "Correcto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Mal realizado",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Secuencia 4: Bucles",
+          "description": "Reproducir bucles del modelo",
+          "options": [
+            {
+              "text": "Correcto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Mal realizado",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Coordinación 1: Mano-puño",
+          "description": "Alterno: una cerrada, otra abierta",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Mal realizado",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Coordinación 2: Dos-uno",
+          "description": "2 golpes derecha, 1 izquierda",
+          "options": [
+            {
+              "text": "Perfecto",
+              "points": 2
+            },
+            {
+              "text": "Regular",
+              "points": 1
+            },
+            {
+              "text": "Mal realizado",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
