@@ -1,0 +1,533 @@
+{
+  "formId": "bundle_1794330532733_pd0l",
+  "type": "bundle",
+  "patientId": 1794324551553,
+  "patientName": "Julen",
+  "createdAt": "2026-11-10T17:08:52.733Z",
+  "scales": [
+    {
+      "scaleId": "grip-strength-preloaded",
+      "scaleName": "Dinamometría de Agarre y Pinza",
+      "items": [
+        {
+          "name": "Fuerza de agarre mano dominante (kg)",
+          "description": "Posición estándar: codo 90°, antebrazo neutro. Media de 3 intentos con 1 min de descanso. Comparar con normas según edad/sexo.",
+          "options": [
+            {
+              "text": "≥90% del valor normativo esperado — Normal",
+              "points": 3
+            },
+            {
+              "text": "75-89% del valor normativo — Leve reducción",
+              "points": 2
+            },
+            {
+              "text": "50-74% del valor normativo — Reducción moderada",
+              "points": 1
+            },
+            {
+              "text": "<50% del valor normativo — Reducción severa",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Fuerza de agarre mano no dominante (kg)",
+          "description": "Misma metodología con la mano no dominante.",
+          "options": [
+            {
+              "text": "≥90% del valor normativo — Normal",
+              "points": 3
+            },
+            {
+              "text": "75-89% del valor normativo — Leve reducción",
+              "points": 2
+            },
+            {
+              "text": "50-74% del valor normativo — Reducción moderada",
+              "points": 1
+            },
+            {
+              "text": "<50% del valor normativo — Reducción severa",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Fuerza de pinza lateral (key pinch) mano dominante",
+          "description": "Pinza entre pulpejo del pulgar y cara lateral del índice.",
+          "options": [
+            {
+              "text": "≥90% del valor normativo — Normal",
+              "points": 2
+            },
+            {
+              "text": "60-89% del valor normativo — Reducción leve-moderada",
+              "points": 1
+            },
+            {
+              "text": "<60% del valor normativo — Reducción severa",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Fuerza de pinza tridigital (3-jaw chuck) mano dominante",
+          "description": "Pinza entre pulpejo del pulgar, índice y medio.",
+          "options": [
+            {
+              "text": "≥90% del valor normativo — Normal",
+              "points": 2
+            },
+            {
+              "text": "60-89% del valor normativo — Reducción leve-moderada",
+              "points": 1
+            },
+            {
+              "text": "<60% del valor normativo — Reducción severa",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scaleId": "knox-juego-preloaded",
+      "scaleName": "Escala de Juego de Knox (Revisada)",
+      "items": [
+        {
+          "name": "Motricidad gruesa: Nivel de actividad aumentado, acrobacias, pruebas de fuerza, escala, galopa, atrapa la pelota con codos a los lados.",
+          "description": "Manejo del espacio — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Motricidad gruesa: Buen control muscular y equilibrio, salta en un pie >5 veces, rebota y atrapa pelota, pirueta, anda en skate.",
+          "description": "Manejo del espacio — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Intereses: Se enorgullece de su trabajo, ideas complejas, juego brusco.",
+          "description": "Manejo del espacio — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Intereses: En la realidad: manipulación de situaciones de la vida real, hacer algo útil, permanencia del producto, juguetes que funcionan de verdad.",
+          "description": "Manejo del espacio — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Manipulación: Control motor fino aumentado, movimientos rápidos, fuerza, tirar.",
+          "description": "Manejo del material — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Manipulación: Usa herramientas para hacer cosas, copia, hace trazos, combina materiales.",
+          "description": "Manejo del material — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Construcción: Hace productos con diseños específicos, estructuras complejas, rompecabezas de 10 piezas.",
+          "description": "Manejo del material — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Construcción: Hace productos reconocibles, construcciones pequeñas con detalle, usa productos en el juego.",
+          "description": "Manejo del material — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Propósito: El producto es muy importante, lo usa para expresarse, exagera.",
+          "description": "Manejo del material — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Propósito: Replicar la realidad.",
+          "description": "Manejo del material — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Atención: Solo hasta 1 hora, un objeto/tema 10-15 minutos.",
+          "description": "Manejo del material — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Atención: Un objeto/tema 15 o más minutos.",
+          "description": "Manejo del material — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Imitación: Arma libretos de adultos (ej: se disfraza), importancia de la realidad.",
+          "description": "Simbolismo pretendido — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Imitación: Continúa para construir nuevos temas con énfasis en la realidad, reconstrucción del mundo real.",
+          "description": "Simbolismo pretendido — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Dramatización: Usa conocimiento familiar para construir situaciones novedosas, juego de rol, emociones complejas, disfruta disfrazarse.",
+          "description": "Simbolismo pretendido — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Dramatización: Secuencia historias, disfraces, títeres, dirige 3 muñecas haciéndolas interactuar, organiza a otros niños para juego de rol.",
+          "description": "Simbolismo pretendido — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Tipo: Cooperativo, grupos de 2-3 organizados para alcanzar una meta, juegos en grupo con reglas simples.",
+          "description": "Participación — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Tipo: Grupos cooperativos de 3-6 niños, juegos competitivos, entiende reglas de fair play.",
+          "description": "Participación — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Cooperación: Toma turnos, intenta controlar actividades de otros, fuerte sentido de la familia y el hogar.",
+          "description": "Participación — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Cooperación: Cede para facilitar el juego grupal, rivalidad en juego competitivo, juego colaborativo con roles coordinados.",
+          "description": "Participación — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Humor: Distorsión de lo familiar.",
+          "description": "Participación — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Humor: Ríe ante los múltiples significados de las palabras.",
+          "description": "Participación — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Lenguaje: Organiza actividades con lenguaje, se jacta, amenaza, payasea, canta canciones completas, razonamiento verbal.",
+          "description": "Participación — 48 a 60 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "name": "Lenguaje: Prominente en juego socio-dramático, conversación como la de los adultos, usa términos relacionales, canta y baila.",
+          "description": "Participación — 60 a 72 meses",
+          "options": [
+            {
+              "text": "(+) Sí, observo esta conducta",
+              "points": 2
+            },
+            {
+              "text": "(−) No observo esta conducta aún",
+              "points": 0
+            },
+            {
+              "text": "(NO) No he podido observarlo",
+              "points": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
