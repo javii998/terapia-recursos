@@ -1,0 +1,130 @@
+{
+  "formId": "bundle_1794330532733_pd0l_s1_knox-juego-preloaded",
+  "patientId": 1794324551553,
+  "patientName": "Julen",
+  "submittedAt": "2026-11-10T17:09:30.567Z",
+  "scaleId": "knox-juego-preloaded",
+  "scaleName": "Escala de Juego de Knox (Revisada)",
+  "answers": [
+    {
+      "itemName": "Motricidad gruesa: Nivel de actividad aumentado, acrobacias, pruebas de fuerza, escala, galopa, atrapa la pelota con codos a los lados.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Motricidad gruesa: Buen control muscular y equilibrio, salta en un pie >5 veces, rebota y atrapa pelota, pirueta, anda en skate.",
+      "points": 1,
+      "selectedOption": "(NO) No he podido observarlo"
+    },
+    {
+      "itemName": "Intereses: Se enorgullece de su trabajo, ideas complejas, juego brusco.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Intereses: En la realidad: manipulación de situaciones de la vida real, hacer algo útil, permanencia del producto, juguetes que funcionan de verdad.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Manipulación: Control motor fino aumentado, movimientos rápidos, fuerza, tirar.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Manipulación: Usa herramientas para hacer cosas, copia, hace trazos, combina materiales.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Construcción: Hace productos con diseños específicos, estructuras complejas, rompecabezas de 10 piezas.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Construcción: Hace productos reconocibles, construcciones pequeñas con detalle, usa productos en el juego.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Propósito: El producto es muy importante, lo usa para expresarse, exagera.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Propósito: Replicar la realidad.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Atención: Solo hasta 1 hora, un objeto/tema 10-15 minutos.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Atención: Un objeto/tema 15 o más minutos.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Imitación: Arma libretos de adultos (ej: se disfraza), importancia de la realidad.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Imitación: Continúa para construir nuevos temas con énfasis en la realidad, reconstrucción del mundo real.",
+      "points": 1,
+      "selectedOption": "(NO) No he podido observarlo"
+    },
+    {
+      "itemName": "Dramatización: Usa conocimiento familiar para construir situaciones novedosas, juego de rol, emociones complejas, disfruta disfrazarse.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Dramatización: Secuencia historias, disfraces, títeres, dirige 3 muñecas haciéndolas interactuar, organiza a otros niños para juego de rol.",
+      "points": 2,
+      "selectedOption": "(+) Sí, observo esta conducta"
+    },
+    {
+      "itemName": "Tipo: Cooperativo, grupos de 2-3 organizados para alcanzar una meta, juegos en grupo con reglas simples.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Tipo: Grupos cooperativos de 3-6 niños, juegos competitivos, entiende reglas de fair play.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Cooperación: Toma turnos, intenta controlar actividades de otros, fuerte sentido de la familia y el hogar.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Cooperación: Cede para facilitar el juego grupal, rivalidad en juego competitivo, juego colaborativo con roles coordinados.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Humor: Distorsión de lo familiar.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Humor: Ríe ante los múltiples significados de las palabras.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Lenguaje: Organiza actividades con lenguaje, se jacta, amenaza, payasea, canta canciones completas, razonamiento verbal.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    },
+    {
+      "itemName": "Lenguaje: Prominente en juego socio-dramático, conversación como la de los adultos, usa términos relacionales, canta y baila.",
+      "points": 0,
+      "selectedOption": "(−) No observo esta conducta aún"
+    }
+  ]
+}
