@@ -1,0 +1,85 @@
+{
+  "formId": "bundle_1794315319978_cln5",
+  "type": "bundle",
+  "patientId": 1773307174052,
+  "patientName": "Vega Torrecillas",
+  "createdAt": "2026-11-10T12:55:19.978Z",
+  "scales": [
+    {
+      "scaleId": "rankin-preloaded",
+      "scaleName": "Escala de Rankin Modificada (ERM)",
+      "items": [
+        {
+          "name": "Grado de discapacidad",
+          "description": "Evaluación del grado de discapacidad funcional post-ictus",
+          "options": [
+            {
+              "text": "0 - Sin síntomas ni limitaciones",
+              "points": 0
+            },
+            {
+              "text": "1 - Sin discapacidad significativa (algunos síntomas pero sin limitaciones)",
+              "points": 1
+            },
+            {
+              "text": "2 - Discapacidad leve (limitaciones en actividades habituales pero independiente en ABVD)",
+              "points": 2
+            },
+            {
+              "text": "3 - Discapacidad moderada (necesita asistencia para AIVD pero no para ABVD)",
+              "points": 3
+            },
+            {
+              "text": "4 - Discapacidad moderada-severa (necesita asistencia para ABVD, no cuidados continuos)",
+              "points": 4
+            },
+            {
+              "text": "5 - Discapacidad severa (necesita cuidados constantes durante todo el día)",
+              "points": 5
+            },
+            {
+              "text": "6 - Muerte",
+              "points": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scaleId": "fachs-preloaded",
+      "scaleName": "FACHS - Clasificación Funcional Manipulación Sagunto",
+      "items": [
+        {
+          "name": "Nivel funcional de manipulación",
+          "description": "Evaluación del nivel funcional de la mano",
+          "options": [
+            {
+              "text": "Nivel 5 - Manipulación Normal (fuerza, destreza y finura, estética normal)",
+              "points": 5
+            },
+            {
+              "text": "Nivel 4 - Prensión fina fuerte (pinza con fuerza sin fatiga)",
+              "points": 4
+            },
+            {
+              "text": "Nivel 3 - Prensión fina (pinza índice-pulgar con objetos pequeños)",
+              "points": 3
+            },
+            {
+              "text": "Nivel 2 - Prensión global (presa con todos dedos/palma)",
+              "points": 2
+            },
+            {
+              "text": "Nivel 1 - Manipulación no funcional (contacto, empuje, ayuda bimanual)",
+              "points": 1
+            },
+            {
+              "text": "Nivel 0 - Nula manipulación (sin uso funcional)",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
