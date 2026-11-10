@@ -1,0 +1,30 @@
+{
+  "formId": "bundle_1794330532733_pd0l_s0_grip-strength-preloaded",
+  "patientId": 1794324551553,
+  "patientName": "Julen",
+  "submittedAt": "2026-11-10T17:09:15.474Z",
+  "scaleId": "grip-strength-preloaded",
+  "scaleName": "Dinamometría de Agarre y Pinza",
+  "answers": [
+    {
+      "itemName": "Fuerza de agarre mano dominante (kg)",
+      "points": 2,
+      "selectedOption": "75-89% del valor normativo — Leve reducción"
+    },
+    {
+      "itemName": "Fuerza de agarre mano no dominante (kg)",
+      "points": 1,
+      "selectedOption": "50-74% del valor normativo — Reducción moderada"
+    },
+    {
+      "itemName": "Fuerza de pinza lateral (key pinch) mano dominante",
+      "points": 1,
+      "selectedOption": "60-89% del valor normativo — Reducción leve-moderada"
+    },
+    {
+      "itemName": "Fuerza de pinza tridigital (3-jaw chuck) mano dominante",
+      "points": 1,
+      "selectedOption": "60-89% del valor normativo — Reducción leve-moderada"
+    }
+  ]
+}
